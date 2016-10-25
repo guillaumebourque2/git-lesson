@@ -1,0 +1,1 @@
+Git is very useful, but complicated. It is very powerful, and designed to work with GitHub.
